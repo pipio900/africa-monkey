@@ -78,7 +78,7 @@ header p {
 }
 
 .gallery img {
-    width: 80%;
+    width: 160%;
     height: 400px;
     object-fit: cover;
     border-radius: 20px;
@@ -116,6 +116,7 @@ footer {
         height: 200px;
     }
 }
+
 
 
 
