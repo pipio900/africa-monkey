@@ -86,7 +86,7 @@ header p {
     background: linear-gradient(135deg, #ff9800, #ffeb3b);
     box-shadow:
         inset 0 0 0 3px #6d3b00,
-        0 15px 25px rgba(0,0,0,0.35);
+        0 20px 35px rgba(0,0,0,0.35);
     transition: all 0.35s ease;
 }
 
@@ -116,4 +116,5 @@ footer {
         height: 200px;
     }
 }
+
 
