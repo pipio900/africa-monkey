@@ -79,7 +79,7 @@ header p {
 
 .gallery img {
     width: 100%;
-    height: 400px;
+    height: 360px;
     object-fit: cover;
     border-radius: 20px;
     padding: 6px;
@@ -113,9 +113,10 @@ footer {
     }
 
     .gallery img {
-        height: 200px;
+        height: 300px;
     }
 }
+
 
 
 
